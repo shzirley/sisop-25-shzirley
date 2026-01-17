@@ -1,0 +1,7 @@
+## Masalah
+
+masalah pada kode saya adalah ia tidak dapat membuat report dengan benar, sebelum nya mencapai 56 negara bukan 77 setelah menggunakan fork menjadi 200 ke atas lebih
+
+negara germany diatas tahun 2000 seharusnya 13, bukan 62
+
+judul berawal kan 0 masuk ke folder tahun bukan judul
